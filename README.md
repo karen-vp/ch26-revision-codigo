@@ -1,4 +1,4 @@
-# ch26-api-fetch
+# ch26-revision-codigo
 
 This project is a refactorization of a project that consumes an API of a users data list and it shows it in paragraphs.
 
